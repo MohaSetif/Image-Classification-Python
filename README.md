@@ -30,16 +30,20 @@ This project is a simple image classifier built with Python using TensorFlow/Ker
 
    ```bash
    git clone https://github.com/your-username/64x64-image-classifier.git
-2. Install the required modules:
+2. Install the requirements:
+   NumPy:
    ```bash
    pip install numpy
    ```
+   Matplotlib:
    ```bash
    pip install matplotlib
    ```
+   Tensorflow:
    ```bash
    pip install tensorflow
    ```
+   OpenCV:
    ```bash
    pip install opencv-python
 
