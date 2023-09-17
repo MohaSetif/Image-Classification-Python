@@ -33,8 +33,14 @@ This project is a simple image classifier built with Python using TensorFlow/Ker
 2. Install the required modules:
    ```bash
    pip install numpy
+   ```
+   ```bash
    pip install matplotlib
+   ```
+   ```bash
    pip install tensorflow
+   ```
+   ```bash
    pip install opencv-python
 
 ## Usage
