@@ -1,4 +1,3 @@
-# Image-Classification-Python
 # 64x64 Image Classifier
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
